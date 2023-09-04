@@ -3,7 +3,7 @@ h1{
     text-align: center;
 }
 body{
-background: url(aimg.jpg);
+background: url("aimg.jpg");
 position: absolute;
 background-size: 100% 100%;
 background-repeat: no-repeat;
